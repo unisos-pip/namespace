@@ -30,7 +30,7 @@ Installation
 
 ::
 
-    pip install unisos
+   pip install unisos
 
 See Also
 ========
